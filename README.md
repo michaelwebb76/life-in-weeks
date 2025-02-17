@@ -6,7 +6,11 @@ I made this to help myself see the bigger picture of the road I've walked.
 
 Read more about [Life in Weeks at Wait But Why](https://waitbutwhy.com/2014/05/life-weeks.html).
 
-This code was copied and adapted from [Buster Benson](https://busterbenson.com/life-in-weeks). It is a single webpage statically-rendered with [Hugo](https://gohugo.io/) hosted on Netlify. It consists of two [data](data/events.yml) [files](data/colors.yml), [an introduction](content/index.md), and a [template](layouts/_default/index.html).
+This code was copied and adapted from [Gina Trapani](https://github.com/ginatrapani/life-in-weeks),
+which in term was copied and adapted from [Buster Benson](https://busterbenson.com/life-in-weeks).
+It is a single webpage statically-rendered with [Hugo](https://gohugo.io/) hosted on Netlify. It
+consists of two [data](data/events.yml) [files](data/colors.yml), [an introduction](content/index.md),
+and a [template](layouts/_default/index.html).
 
 ## 🚀 Setup
 
@@ -15,11 +19,13 @@ This code was copied and adapted from [Buster Benson](https://busterbenson.com/l
    brew install hugo  # Mac
    ```
 2. Clone and run locally:
+
 ```sh
-    git clone https://github.com/ginatrapani/life-in-weeks.git
+    git clone https://github.com/michaelwebb76/life-in-weeks.git
     cd life-in-weeks
     hugo server -D
 ```
+
 3. Visit [http://localhost:1313/](http://localhost:1313/).
 
 ## ✨ Customize
