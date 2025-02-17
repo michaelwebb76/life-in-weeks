@@ -14,6 +14,44 @@ and a [template](layouts/_default/index.html).
 
 ## 🚀 Setup
 
+### Using Nix and Direnv (Recommended)
+
+This project now supports Nix and Direnv for a consistent development environment.
+
+1. Install Nix and enable flakes:
+   ```sh
+   sh <(curl -L https://nixos.org/nix/install)
+   # Follow the instructions to enable flakes
+   ```
+
+2. Install Direnv:
+   ```sh
+   # On macOS
+   brew install direnv
+   # Add direnv hook to your shell (e.g., for zsh)
+   echo 'eval "$(direnv hook zsh)"' >> ~/.zshrc
+   ```
+
+3. Clone the repository and enter the directory:
+   ```sh
+   git clone https://github.com/michaelwebb76/life-in-weeks.git
+   cd life-in-weeks
+   ```
+
+4. Allow direnv:
+   ```sh
+   direnv allow
+   ```
+
+5. Run the Hugo server:
+   ```sh
+   hugo server -D
+   ```
+
+### Manual Setup
+
+If you prefer not to use Nix, you can still set up the project manually:
+
 1. Install Hugo:
    ```sh
    brew install hugo  # Mac
