@@ -8,7 +8,7 @@
     based: "Upwey"
     doing: "I was tiny"
 
-# Housing
+# Based
 
 "1978-03-01":
   - headline: "🚚 Moved to Emerald, Victoria"
@@ -24,8 +24,151 @@
   - headline: "🚚 Moved to Carlton, Victoria"
     description: "Moved to the city to study."
     based: "Carlton"
+    doing: "Unemployed"
 
-# Schooling
+"1996-02-01":
+  - headline: "🚚 Moved to North Melbourne, Victoria"
+    description: "Moved into an apartment that Mum and Dad had bought."
+    based: "North Melbourne"
+
+"1999-02-01":
+  - headline: "🚚 Moved to Carlton, Victoria"
+    description: "Moved back to Carlton, into an very much nicer apartment that Mum and Dad had bought by selling the previous one."
+    based: "Carlton"
+
+"2006-04-12":
+  - headline: "🛬 Malaysia 🇲🇾"
+    description: "Started our honeymoon with a luxury resort in Kota Kinabalu, then a hike up Mt Kinabalu, and then the 'Headhunters Trail', the booking of which nearly caused my marriage to end after one month."
+    doing: "Backpacking"
+    based: "Malaysia"
+    association: ""
+
+"2006-05-07":
+  - headline: "🚌 Thailand 🇹🇭"
+    description: "Beaches, food and a week-long scuba diving course."
+    doing: "Backpacking"
+    based: "Thailand"
+
+"2006-05-22":
+  - headline: "🚌 Cambodia 🇰🇭"
+    description: "Amazing ruins."
+    doing: "Backpacking"
+    based: "Cambodia"
+
+"2006-05-29":
+  - headline: "🛬 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    description: "Friends and famous sights."
+    doing: "Backpacking"
+    based: "England"
+
+"2006-06-06":
+  - headline: "🛬 France 🇫🇷"
+    description: "Catching up with the in-laws and seeing the sights."
+    doing: "Backpacking"
+    based: "France"
+
+"2006-06-11":
+  - headline: "🚌 Czech Republic 🇨🇿"
+    description: "Beer and the World Cup."
+    doing: "Backpacking"
+    based: "Czech Republic"
+
+"2006-06-17":
+  - headline: "🚌 Germany 🇩🇪"
+    description: "Beer and the World Cup."
+    doing: "Backpacking"
+    based: "Germany"
+
+"2006-06-25":
+  - headline: "🚌 Netherlands 🇳🇱"
+    description: "Beer and the World Cup."
+    doing: "Backpacking"
+    based: "Netherlands"
+
+"2006-06-30":
+  - headline: "🚆 Belgium 🇧🇪"
+    description: "Rock Werchter music festival."
+    doing: "Backpacking"
+    based: "Belgium"
+
+"2006-07-10":
+  - headline: "🚲 Austria 🇦🇹"
+    description: "Cycling around Lake Constance, one of my favourite ever travel experiences"
+    doing: "Backpacking"
+    based: "Austria"
+
+"2006-07-16":
+  - headline: "🚆 Switzerland🇨🇭"
+    description: "Catching up with old friends, white water rafting and hiking."
+    doing: "Backpacking"
+    based: "Switzerland"
+
+"2006-07-20":
+  - headline: "🚌 France 🇫🇷"
+    description: "Seeing the Tour de France go through the mountains."
+    doing: "Backpacking"
+    based: "France"
+
+"2006-07-23":
+  - headline: "🚆 Spain 🇪🇸"
+    description: "Food and aimless wandering."
+    doing: "Backpacking"
+    based: "Spain"
+
+"2006-08-10":
+  - headline: "🚌 France 🇫🇷"
+    description: "Surfing the coast and visiting vineyards."
+    doing: "Backpacking"
+    based: "France"
+
+"2006-08-22":
+  - headline: "🛬 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    description: "RADIOHEAD!"
+    doing: "Backpacking"
+    based: "Scotland"
+
+"2006-08-26":
+  - headline: "🛬 Ireland 🇮🇪"
+    description: "Living in friends' spare bedroom in Cork, looking for work."
+    doing: "Backpacking"
+    based: "Ireland"
+
+"2006-09-10":
+  - headline: "🚌 Settled in Dublin, Ireland"
+    description: "Started a year's working holiday in Dublin."
+    doing: "Working"
+    based: "Dublin"
+
+"2006-12-30":
+  - headline: "🇨🇭 Champoussin, Switzerland"
+    description: "Week-long NYE party with friends from Melbourne"
+
+"2007-03-25":
+  - headline: "🇮🇹 Venice, Italy"
+    description: "Romantic first anniversary"
+
+"2007-12-20":
+  - headline: "🛬 Settled in Richmond, Victoria"
+    description: "Rented a lovely little one-bedroom apartment in Richmond."
+    based: "Richmond"
+
+"2008-11-20":
+  - headline: "🏠 Bought first property"
+
+"2009-02-07":
+  - headline: "🚚 Moved to Thornbury, Victoria"
+    description: "3BR townhouse, with a backyard"
+    based: "Thornbury"
+
+"2015-02-01":
+  - headline: "🏠 Sold apartment, bought house"
+
+"2015-02-07":
+  - headline: "🚚 Moved to Macleod, Victoria"
+    description: "4BR house, with a backyard, surrounded by animal-filled parkland"
+    based: "Macleod"
+
+# Doing
 
 "1981-03-01":
   - headline: "🖍️ Kindergarten"
@@ -45,13 +188,129 @@
     doing: "High school student"
     association: "Rochester High School"
 
-"1995-02-08":
+"1995-02-07":
   - headline: "🎓 University"
-    description: "Studying a Bachelor of Applied Science in Computer Science at RMIT City Campus."
+    description: "Studying a Bachelor of Applied Science in Computer Science at RMIT City Campus, working a casual gig as a waiter at Waverley Park and the Tennis Centre."
     doing: "University student"
     association: "RMIT"
 
+"1999-03-01":
+  - headline: "👔 Software Developer @ Cooee Phone Company"
+    description: "First real job, building call centre software."
+    doing: "Working"
+    association: "Cooee Phone Company"
+
+"1999-09-01":
+  - headline: "👔 Software Developer @ Touchcorp"
+    description: "Building touch screen kiosk software."
+    doing: "Working"
+    association: "Touchcorp"
+
+"2002-10-01":
+  - headline: "👔 Software Developer @ Pracom"
+    description: "Building call centre software."
+    doing: "Working"
+    association: "Pracom"
+
+"2004-03-01":
+  - headline: "👔 Senior Software Developer @ IBA Health"
+    description: "Building hospital management software."
+    doing: "Working"
+    association: "IBA Health"
+
+"2005-08-01":
+  - headline: "👔 Senior Software Developer @ John Holland"
+    description: "Building project management software at Australia's largest contractor."
+    doing: "Working"
+    association: "John Holland"
+
+"2006-11-01":
+  - headline: "👔 Senior Software Developer @ Aviva Ireland"
+    description: "Building insurance quotation software."
+    doing: "Working"
+    association: "Aviva Ireland"
+
+"2008-01-01":
+  - headline: "👔 Team Leader @ John Holland"
+    description: "Building intranet and ERP software at Australia's largest contractor."
+    doing: "Working"
+    association: "John Holland"
+
+"2011-05-07":
+  - headline: "🎓 Back to University"
+    description: "Studying a Masters of Business Administration at Melbourne Business School."
+    doing: "Working and studying part-time"
+    association: "John Holland and Melbourne Business School respectively"
+
+"2011-09-01":
+  - headline: "👔 Consultant - NEC Australia"
+    description: "Consulting on business process improvement through software implementation and agile development practices at Origin Energy."
+    doing: "Working and studying part-time"
+    association: "NEC Australia and Melbourne Business School respectively"
+
+"2013-11-04":
+  - headline: "🎓 Finished my MBA"
+    description: "Finished a Masters of Business Administration at Melbourne Business School."
+    doing: "Working"
+    association: "NEC Australia"
+
+"2014-06-01":
+  - headline: "👔 General Manager @ Trike Apps"
+    description: "Running a software development consultancy."
+    doing: "Working"
+    association: "Trike Apps"
+
+"2017-04-01":
+  - headline: "👔 Technology Manager @ Bellroy"
+    description: "Leading the Technology Team at Bellroy - web development, operations and technical support across a truly global team and business."
+    doing: "Working"
+    association: "Bellroy"
+
+"2022-04-01":
+  - headline: "👔 Chief Technology Officer @ Bellroy"
+    description: "Stepping up and taking on more responsibility for the business as a whole."
+    doing: "Working"
+    association: "Bellroy"
+
+# Life events
+
+"2003-03-06":
+  - headline: "💓 Met K"
+    description: "Backstage at a gig at the Esplanade Hotel, St Kilda. My band were on after hers so technically they were our support act. I ran out to her car as she left and asked for her number."
+
+"2003-03-10":
+  - headline: "🥁 Saw K play another gig"
+    description: "Went to see K's band at the Tote in Collingwood. We talked music afterwards and I asked her out to dinner on the strength of the bands we mutually liked."
+
+"2003-03-16":
+  - headline: "💓 First date with K"
+    description: "Big Mouth in Ackland St, St Kilda."
+
+"2005-03-16":
+  - headline: "💍 Proposed to K"
+    description: "At Langton's in Melbourne city on our second anniversary of going out. She said yes. The people next to us bought us a bottle of champagne and we left the place very drunk."
+
+"2005-03-25":
+  - headline: "💍 Married"
+    description: "At K's parents house in Kilmore, Victoria. We had about 120 people in a big marquee on a 34 degree day."
+
+"2014-02-03":
+  - headline: "👶 R born"
+    description: "Our first child"
+
+"2017-12-27":
+  - headline: "👶 D born"
+    description: "Our second child"
+
 # Misc events
+
+"2005-05-21":
+  - headline: "🏃‍♂️ Ran first half-marathon"
+    description: "In Sydney"
+
+"2005-07-17":
+  - headline: "🚙 Road trip to Byron Bay"
+    description: "For Splendour in the Grass 2005"
 
 "2024-02-17":
   - headline: "📍 Made this"
